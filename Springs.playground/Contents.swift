@@ -16,7 +16,6 @@ layerB.backgroundColor = .blue
 view.addSubview(layerA)
 view.addSubview(layerB)
 
-// The values copied from framer
 let duration: TimeInterval = 3
 let dampingRatio: CGFloat = 0.25
 
